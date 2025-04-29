@@ -1,0 +1,341 @@
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:30:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:40:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:50:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:61:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:71:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\exception\GlobalExceptionHandler.java:94:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.exception.GlobalExceptionHandler
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java:55:27
+java: cannot find symbol
+  symbol:   method builder()
+  location: class com.example.leave_approval_system.dto.ApiResponse
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java:67:27
+java: cannot find symbol
+  symbol:   method builder()
+  location: class com.example.leave_approval_system.dto.ApiResponse
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java:81:27
+java: cannot find symbol
+  symbol:   method builder()
+  location: class com.example.leave_approval_system.dto.ApiResponse
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java:96:27
+java: cannot find symbol
+  symbol:   method builder()
+  location: class com.example.leave_approval_system.dto.ApiResponse
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java:121:27
+java: cannot find symbol
+  symbol:   method builder()
+  location: class com.example.leave_approval_system.dto.ApiResponse
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java
+java: /J:/__Code/ELSE/ZJR/ZJR-GP/leave_approval_system/src/main/java/com/example/leave_approval_system/dto/ApiResponse.java uses unchecked or unsafe operations.
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\dto\ApiResponse.java
+java: Recompile with -Xlint:unchecked for details.
+
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:38:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:38:48
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable registerRequest of type @jakarta.validation.Valid com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:46:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:52:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:66:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:66:45
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable loginRequest of type @jakarta.validation.Valid com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:73:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:79:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:98:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\controller\AuthController.java:112:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.controller.AuthController
+
+
+
+
+
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:41:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:41:40
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:44:52
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:45:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:45:52
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:50:20
+java: cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:50:51
+java: cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:50:112
+java: cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:51:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:51:51
+java: cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:57:33
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:58:56
+java: cannot find symbol
+  symbol:   method getPassword()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:59:30
+java: cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:60:36
+java: cannot find symbol
+  symbol:   method getPhoneNumber()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:61:34
+java: cannot find symbol
+  symbol:   method getBirthDate()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:62:34
+java: cannot find symbol
+  symbol:   method getAvatarUrl()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:63:36
+java: cannot find symbol
+  symbol:   method getNationality()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:64:32
+java: cannot find symbol
+  symbol:   method getAddress()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:65:33
+java: cannot find symbol
+  symbol:   method getSocialQq()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:66:37
+java: cannot find symbol
+  symbol:   method getSocialWechat()
+  location: variable request of type com.example.leave_approval_system.dto.RegisterRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:71:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:71:77
+java: cannot find symbol
+  symbol:   method getId()
+  location: variable savedUser of type com.example.leave_approval_system.model.User
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:82:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:82:41
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:87:36
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:88:36
+java: cannot find symbol
+  symbol:   method getPassword()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:96:84
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:100:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:104:20
+java: constructor AuthResponse in class com.example.leave_approval_system.dto.AuthResponse cannot be applied to given types;
+  required: no arguments
+  found:    java.lang.String,java.lang.String,java.lang.String
+  reason: actual and formal argument lists differ in length
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:108:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:108:52
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:111:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.service.AuthService
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\service\AuthService.java:111:57
+java: cannot find symbol
+  symbol:   method getUsername()
+  location: variable request of type com.example.leave_approval_system.dto.LoginRequest
+
+
+
+
+
+
+
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:38:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:44:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:139:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:141:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:143:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:145:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:147:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtUtil.java:149:13
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtUtil
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtAuthenticationEntryPoint.java:30:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtAuthenticationEntryPoint
+
+
+
+
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:50:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:52:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:54:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:56:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:58:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:60:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:84:21
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:86:21
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:89:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:92:17
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtRequestFilter.java:113:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtRequestFilter
+
+
+
+
+
+
+
+J:\__Code\ELSE\ZJR\ZJR-GP\leave_approval_system\src\main\java\com\example\leave_approval_system\security\JwtAccessDeniedHandler.java:30:9
+java: cannot find symbol
+  symbol:   variable log
+  location: class com.example.leave_approval_system.security.JwtAccessDeniedHandler
